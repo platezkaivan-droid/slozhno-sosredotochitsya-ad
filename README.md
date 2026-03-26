@@ -4,4 +4,4 @@
 
 ## Ссылка на проект
 
-https://platezkaivan-droid.github.io/slozhno-sosredotochitsya-ad/
+https://github.com/platezkaivan-droid/slozhno-sosredotochitsya-ad
